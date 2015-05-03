@@ -7,3 +7,10 @@ The LED's are placed around the inside rim and are used to illuminate the inside
 There are 3 LED's per side, each an RGB WS2801 type.
 
 
+# Schematic
+
+TODO
+
+But heres an insider view:
+
+![Inside](docs/inside-view.jpg)
